@@ -14,6 +14,9 @@
 		C3F15B7221A909BD006CEAF0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3F15B7021A909BD006CEAF0 /* LaunchScreen.storyboard */; };
 		C3F15B7D21A909BD006CEAF0 /* Cash_DashTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3F15B7C21A909BD006CEAF0 /* Cash_DashTests.swift */; };
 		C3F15B8821A909BD006CEAF0 /* Cash_DashUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3F15B8721A909BD006CEAF0 /* Cash_DashUITests.swift */; };
+		C3F15B9621A90A35006CEAF0 /* Helpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3F15B9521A90A35006CEAF0 /* Helpers.swift */; };
+		C3F15B9C21AA9393006CEAF0 /* InfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3F15B9B21AA9393006CEAF0 /* InfoViewController.swift */; };
+		C3F15B9E21AA97B7006CEAF0 /* Stylesheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3F15B9D21AA97B7006CEAF0 /* Stylesheet.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +50,9 @@
 		C3F15B8321A909BD006CEAF0 /* Cash DashUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Cash DashUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3F15B8721A909BD006CEAF0 /* Cash_DashUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cash_DashUITests.swift; sourceTree = "<group>"; };
 		C3F15B8921A909BD006CEAF0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C3F15B9521A90A35006CEAF0 /* Helpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helpers.swift; sourceTree = "<group>"; };
+		C3F15B9B21AA9393006CEAF0 /* InfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoViewController.swift; sourceTree = "<group>"; };
+		C3F15B9D21AA97B7006CEAF0 /* Stylesheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stylesheet.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,8 +103,11 @@
 		C3F15B6621A909B8006CEAF0 /* Cash Dash */ = {
 			isa = PBXGroup;
 			children = (
+				C3F15B9D21AA97B7006CEAF0 /* Stylesheet.swift */,
 				C3F15B6721A909B8006CEAF0 /* AppDelegate.swift */,
 				C3F15B6921A909B8006CEAF0 /* ViewController.swift */,
+				C3F15B9B21AA9393006CEAF0 /* InfoViewController.swift */,
+				C3F15B9521A90A35006CEAF0 /* Helpers.swift */,
 				C3F15B6B21A909B8006CEAF0 /* Main.storyboard */,
 				C3F15B6E21A909BD006CEAF0 /* Assets.xcassets */,
 				C3F15B7021A909BD006CEAF0 /* LaunchScreen.storyboard */,
@@ -257,6 +266,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				C3F15B6A21A909B8006CEAF0 /* ViewController.swift in Sources */,
+				C3F15B9621A90A35006CEAF0 /* Helpers.swift in Sources */,
+				C3F15B9E21AA97B7006CEAF0 /* Stylesheet.swift in Sources */,
+				C3F15B9C21AA9393006CEAF0 /* InfoViewController.swift in Sources */,
 				C3F15B6821A909B8006CEAF0 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
