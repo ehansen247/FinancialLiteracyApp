@@ -14,10 +14,32 @@
 		011740D921AC9BC200F3696A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 011740D721AC9BC200F3696A /* LaunchScreen.storyboard */; };
 		011740E421AC9BC200F3696A /* FinancialLiteracyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 011740E321AC9BC200F3696A /* FinancialLiteracyTests.swift */; };
 		011740EF21AC9CDF00F3696A /* CustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 011740EE21AC9CDF00F3696A /* CustomCell.swift */; };
-		011740F121AC9D0200F3696A /* DictViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 011740F021AC9D0200F3696A /* DictViewController.swift */; };
+		011740F121AC9D0200F3696A /* DictVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 011740F021AC9D0200F3696A /* DictVC.swift */; };
 		011740F321AC9D2500F3696A /* Homepage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 011740F221AC9D2500F3696A /* Homepage.swift */; };
 		011740F521AC9D4400F3696A /* RoundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 011740F421AC9D4400F3696A /* RoundButton.swift */; };
 		011740F721AC9D6600F3696A /* WordDefinition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 011740F621AC9D6600F3696A /* WordDefinition.swift */; };
+		0117410221AF334E00F3696A /* DailyReportVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0117410121AF334E00F3696A /* DailyReportVC.swift */; };
+		0145D8A121AF6AEF0072D5B3 /* iPhone 8 Finance Homescreen.png in Resources */ = {isa = PBXBuildFile; fileRef = 0145D8A021AF6AEF0072D5B3 /* iPhone 8 Finance Homescreen.png */; };
+		0145D8AB21B0F3E70072D5B3 /* FavoriteVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0145D8AA21B0F3E70072D5B3 /* FavoriteVC.swift */; };
+		014CF9ED21B83CEB00CE9F63 /* words.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 014CF9EF21B83CEB00CE9F63 /* words.rtf */; };
+		014CF9F021B83CEF00CE9F63 /* star.png in Resources */ = {isa = PBXBuildFile; fileRef = 014CF9F221B83CEF00CE9F63 /* star.png */; };
+		014CF9F321B83CF400CE9F63 /* star2.png in Resources */ = {isa = PBXBuildFile; fileRef = 014CF9F521B83CF400CE9F63 /* star2.png */; };
+		014CF9FA21B8557500CE9F63 /* definitions.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 014CF9F821B8557500CE9F63 /* definitions.rtf */; };
+		014CF9FE21B8A1B200CE9F63 /* homepage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 014CF9FD21B8A1B200CE9F63 /* homepage.jpg */; };
+		014CFA1321B9838A00CE9F63 /* Helpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014CFA0621B9838800CE9F63 /* Helpers.swift */; };
+		014CFA1421B9838A00CE9F63 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014CFA0721B9838900CE9F63 /* ViewController.swift */; };
+		014CFA1521B9838A00CE9F63 /* Summary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014CFA0821B9838900CE9F63 /* Summary.swift */; };
+		014CFA1621B9838A00CE9F63 /* CompoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014CFA0921B9838900CE9F63 /* CompoundViewController.swift */; };
+		014CFA1721B9838A00CE9F63 /* DoubleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014CFA0A21B9838900CE9F63 /* DoubleViewController.swift */; };
+		014CFA1821B9838A00CE9F63 /* Expenses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014CFA0B21B9838900CE9F63 /* Expenses.swift */; };
+		014CFA1A21B9838A00CE9F63 /* LeverageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014CFA0D21B9838900CE9F63 /* LeverageViewController.swift */; };
+		014CFA1B21B9838A00CE9F63 /* SimpleInterestVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014CFA0E21B9838900CE9F63 /* SimpleInterestVC.swift */; };
+		014CFA1C21B9838A00CE9F63 /* BudgetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014CFA0F21B9838A00CE9F63 /* BudgetViewController.swift */; };
+		014CFA1D21B9838A00CE9F63 /* AnnuityViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014CFA1021B9838A00CE9F63 /* AnnuityViewController.swift */; };
+		014CFA1E21B9838A00CE9F63 /* CashFlowViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014CFA1121B9838A00CE9F63 /* CashFlowViewController.swift */; };
+		0190AA8F21C72C3D00966C1F /* Reachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0190AA8E21C72C3D00966C1F /* Reachability.swift */; };
+		56F26199C29B51246DB72A53 /* Pods_FinancialLiteracy.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 70FCB5102C419F8AE6F92640 /* Pods_FinancialLiteracy.framework */; };
+		CDC2906F84760F4B8A6A0524 /* Pods_FinancialLiteracyTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C17299EA77C64F977F52D732 /* Pods_FinancialLiteracyTests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,10 +64,38 @@
 		011740E321AC9BC200F3696A /* FinancialLiteracyTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinancialLiteracyTests.swift; sourceTree = "<group>"; };
 		011740E521AC9BC200F3696A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		011740EE21AC9CDF00F3696A /* CustomCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCell.swift; sourceTree = "<group>"; };
-		011740F021AC9D0200F3696A /* DictViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DictViewController.swift; sourceTree = "<group>"; };
+		011740F021AC9D0200F3696A /* DictVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DictVC.swift; sourceTree = "<group>"; };
 		011740F221AC9D2500F3696A /* Homepage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Homepage.swift; sourceTree = "<group>"; };
 		011740F421AC9D4400F3696A /* RoundButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundButton.swift; sourceTree = "<group>"; };
 		011740F621AC9D6600F3696A /* WordDefinition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordDefinition.swift; sourceTree = "<group>"; };
+		0117410121AF334E00F3696A /* DailyReportVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyReportVC.swift; sourceTree = "<group>"; };
+		0145D8A021AF6AEF0072D5B3 /* iPhone 8 Finance Homescreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone 8 Finance Homescreen.png"; sourceTree = "<group>"; };
+		0145D8AA21B0F3E70072D5B3 /* FavoriteVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteVC.swift; sourceTree = "<group>"; };
+		014CF9EE21B83CEB00CE9F63 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = Base; path = Base.lproj/words.rtf; sourceTree = "<group>"; };
+		014CF9F121B83CEF00CE9F63 /* Base */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Base; path = Base.lproj/star.png; sourceTree = "<group>"; };
+		014CF9F421B83CF400CE9F63 /* Base */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Base; path = Base.lproj/star2.png; sourceTree = "<group>"; };
+		014CF9F621B83CFF00CE9F63 /* Base */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = Base; path = Base.lproj/DESIGN.md; sourceTree = "<group>"; };
+		014CF9F921B8557500CE9F63 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = Base; path = Base.lproj/definitions.rtf; sourceTree = "<group>"; };
+		014CF9FD21B8A1B200CE9F63 /* homepage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = homepage.jpg; sourceTree = "<group>"; };
+		014CFA0621B9838800CE9F63 /* Helpers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Helpers.swift; sourceTree = "<group>"; };
+		014CFA0721B9838900CE9F63 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		014CFA0821B9838900CE9F63 /* Summary.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Summary.swift; sourceTree = "<group>"; };
+		014CFA0921B9838900CE9F63 /* CompoundViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CompoundViewController.swift; sourceTree = "<group>"; };
+		014CFA0A21B9838900CE9F63 /* DoubleViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DoubleViewController.swift; sourceTree = "<group>"; };
+		014CFA0B21B9838900CE9F63 /* Expenses.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Expenses.swift; sourceTree = "<group>"; };
+		014CFA0D21B9838900CE9F63 /* LeverageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LeverageViewController.swift; sourceTree = "<group>"; };
+		014CFA0E21B9838900CE9F63 /* SimpleInterestVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SimpleInterestVC.swift; sourceTree = "<group>"; };
+		014CFA0F21B9838A00CE9F63 /* BudgetViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BudgetViewController.swift; sourceTree = "<group>"; };
+		014CFA1021B9838A00CE9F63 /* AnnuityViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnnuityViewController.swift; sourceTree = "<group>"; };
+		014CFA1121B9838A00CE9F63 /* CashFlowViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CashFlowViewController.swift; sourceTree = "<group>"; };
+		014CFA1F21BA101000CE9F63 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		0190AA8E21C72C3D00966C1F /* Reachability.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reachability.swift; sourceTree = "<group>"; };
+		2923ADBFC7ABC2226D286690 /* Pods-FinancialLiteracy.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FinancialLiteracy.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FinancialLiteracy/Pods-FinancialLiteracy.debug.xcconfig"; sourceTree = "<group>"; };
+		6E774B3000C31701E40820D3 /* Pods-FinancialLiteracyTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FinancialLiteracyTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-FinancialLiteracyTests/Pods-FinancialLiteracyTests.release.xcconfig"; sourceTree = "<group>"; };
+		70FCB5102C419F8AE6F92640 /* Pods_FinancialLiteracy.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FinancialLiteracy.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		95C7DB2A962986E16554FDA3 /* Pods-FinancialLiteracyTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FinancialLiteracyTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FinancialLiteracyTests/Pods-FinancialLiteracyTests.debug.xcconfig"; sourceTree = "<group>"; };
+		BFA5A2607693AC94475F6C70 /* Pods-FinancialLiteracy.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FinancialLiteracy.release.xcconfig"; path = "Pods/Target Support Files/Pods-FinancialLiteracy/Pods-FinancialLiteracy.release.xcconfig"; sourceTree = "<group>"; };
+		C17299EA77C64F977F52D732 /* Pods_FinancialLiteracyTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FinancialLiteracyTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +103,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				56F26199C29B51246DB72A53 /* Pods_FinancialLiteracy.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -60,6 +111,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CDC2906F84760F4B8A6A0524 /* Pods_FinancialLiteracyTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -72,6 +124,8 @@
 				011740CD21AC9BC000F3696A /* FinancialLiteracy */,
 				011740E221AC9BC200F3696A /* FinancialLiteracyTests */,
 				011740CC21AC9BC000F3696A /* Products */,
+				F41075D9DF12BA3961C60E88 /* Pods */,
+				2C9003D99451E15B68696D77 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -87,17 +141,39 @@
 		011740CD21AC9BC000F3696A /* FinancialLiteracy */ = {
 			isa = PBXGroup;
 			children = (
+				014CFA1021B9838A00CE9F63 /* AnnuityViewController.swift */,
+				014CFA0F21B9838A00CE9F63 /* BudgetViewController.swift */,
+				014CFA1121B9838A00CE9F63 /* CashFlowViewController.swift */,
+				014CFA0921B9838900CE9F63 /* CompoundViewController.swift */,
+				014CFA0A21B9838900CE9F63 /* DoubleViewController.swift */,
+				014CFA0B21B9838900CE9F63 /* Expenses.swift */,
+				014CFA0621B9838800CE9F63 /* Helpers.swift */,
+				014CFA0721B9838900CE9F63 /* ViewController.swift */,
+				014CFA0D21B9838900CE9F63 /* LeverageViewController.swift */,
+				014CFA0821B9838900CE9F63 /* Summary.swift */,
+				014CFA0E21B9838900CE9F63 /* SimpleInterestVC.swift */,
 				011740CE21AC9BC000F3696A /* AppDelegate.swift */,
+				014CF9EF21B83CEB00CE9F63 /* words.rtf */,
+				014CF9F821B8557500CE9F63 /* definitions.rtf */,
 				011740D021AC9BC000F3696A /* MainViewController.swift */,
+				014CF9FD21B8A1B200CE9F63 /* homepage.jpg */,
 				011740EE21AC9CDF00F3696A /* CustomCell.swift */,
-				011740F021AC9D0200F3696A /* DictViewController.swift */,
+				014CF9F221B83CEF00CE9F63 /* star.png */,
+				014CF9F521B83CF400CE9F63 /* star2.png */,
+				011740F021AC9D0200F3696A /* DictVC.swift */,
+				0145D8A021AF6AEF0072D5B3 /* iPhone 8 Finance Homescreen.png */,
 				011740F221AC9D2500F3696A /* Homepage.swift */,
 				011740F421AC9D4400F3696A /* RoundButton.swift */,
 				011740F621AC9D6600F3696A /* WordDefinition.swift */,
 				011740D221AC9BC000F3696A /* Main.storyboard */,
+				0145D8AA21B0F3E70072D5B3 /* FavoriteVC.swift */,
+				0117410121AF334E00F3696A /* DailyReportVC.swift */,
 				011740D521AC9BC200F3696A /* Assets.xcassets */,
 				011740D721AC9BC200F3696A /* LaunchScreen.storyboard */,
 				011740DA21AC9BC200F3696A /* Info.plist */,
+				0190AA8E21C72C3D00966C1F /* Reachability.swift */,
+				014CF9F721B83CFF00CE9F63 /* DESIGN.md */,
+				014CFA1F21BA101000CE9F63 /* README.md */,
 			);
 			path = FinancialLiteracy;
 			sourceTree = "<group>";
@@ -111,6 +187,26 @@
 			path = FinancialLiteracyTests;
 			sourceTree = "<group>";
 		};
+		2C9003D99451E15B68696D77 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				70FCB5102C419F8AE6F92640 /* Pods_FinancialLiteracy.framework */,
+				C17299EA77C64F977F52D732 /* Pods_FinancialLiteracyTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F41075D9DF12BA3961C60E88 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				2923ADBFC7ABC2226D286690 /* Pods-FinancialLiteracy.debug.xcconfig */,
+				BFA5A2607693AC94475F6C70 /* Pods-FinancialLiteracy.release.xcconfig */,
+				95C7DB2A962986E16554FDA3 /* Pods-FinancialLiteracyTests.debug.xcconfig */,
+				6E774B3000C31701E40820D3 /* Pods-FinancialLiteracyTests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -118,9 +214,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 011740E821AC9BC200F3696A /* Build configuration list for PBXNativeTarget "FinancialLiteracy" */;
 			buildPhases = (
+				8800A7ECC944511977938795 /* [CP] Check Pods Manifest.lock */,
 				011740C721AC9BC000F3696A /* Sources */,
 				011740C821AC9BC000F3696A /* Frameworks */,
 				011740C921AC9BC000F3696A /* Resources */,
+				1AFD108BD63980C9C77EF301 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -135,6 +233,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 011740EB21AC9BC200F3696A /* Build configuration list for PBXNativeTarget "FinancialLiteracyTests" */;
 			buildPhases = (
+				AB80A913267B273C6B511A8D /* [CP] Check Pods Manifest.lock */,
 				011740DB21AC9BC200F3696A /* Sources */,
 				011740DC21AC9BC200F3696A /* Frameworks */,
 				011740DD21AC9BC200F3696A /* Resources */,
@@ -193,7 +292,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				011740D921AC9BC200F3696A /* LaunchScreen.storyboard in Resources */,
+				014CF9F321B83CF400CE9F63 /* star2.png in Resources */,
+				014CF9ED21B83CEB00CE9F63 /* words.rtf in Resources */,
 				011740D621AC9BC200F3696A /* Assets.xcassets in Resources */,
+				014CF9FE21B8A1B200CE9F63 /* homepage.jpg in Resources */,
+				014CF9F021B83CEF00CE9F63 /* star.png in Resources */,
+				014CF9FA21B8557500CE9F63 /* definitions.rtf in Resources */,
+				0145D8A121AF6AEF0072D5B3 /* iPhone 8 Finance Homescreen.png in Resources */,
 				011740D421AC9BC000F3696A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -207,18 +312,101 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		1AFD108BD63980C9C77EF301 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-FinancialLiteracy/Pods-FinancialLiteracy-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/SwiftSoup/SwiftSoup.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftSoup.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FinancialLiteracy/Pods-FinancialLiteracy-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8800A7ECC944511977938795 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-FinancialLiteracy-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		AB80A913267B273C6B511A8D /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-FinancialLiteracyTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		011740C721AC9BC000F3696A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				014CFA1721B9838A00CE9F63 /* DoubleViewController.swift in Sources */,
+				014CFA1B21B9838A00CE9F63 /* SimpleInterestVC.swift in Sources */,
 				011740D121AC9BC000F3696A /* MainViewController.swift in Sources */,
+				0117410221AF334E00F3696A /* DailyReportVC.swift in Sources */,
+				014CFA1A21B9838A00CE9F63 /* LeverageViewController.swift in Sources */,
+				014CFA1E21B9838A00CE9F63 /* CashFlowViewController.swift in Sources */,
 				011740F521AC9D4400F3696A /* RoundButton.swift in Sources */,
-				011740F121AC9D0200F3696A /* DictViewController.swift in Sources */,
+				014CFA1821B9838A00CE9F63 /* Expenses.swift in Sources */,
+				014CFA1C21B9838A00CE9F63 /* BudgetViewController.swift in Sources */,
+				014CFA1521B9838A00CE9F63 /* Summary.swift in Sources */,
+				014CFA1321B9838A00CE9F63 /* Helpers.swift in Sources */,
+				011740F121AC9D0200F3696A /* DictVC.swift in Sources */,
 				011740EF21AC9CDF00F3696A /* CustomCell.swift in Sources */,
 				011740F321AC9D2500F3696A /* Homepage.swift in Sources */,
+				0190AA8F21C72C3D00966C1F /* Reachability.swift in Sources */,
 				011740F721AC9D6600F3696A /* WordDefinition.swift in Sources */,
+				0145D8AB21B0F3E70072D5B3 /* FavoriteVC.swift in Sources */,
+				014CFA1421B9838A00CE9F63 /* ViewController.swift in Sources */,
 				011740CF21AC9BC000F3696A /* AppDelegate.swift in Sources */,
+				014CFA1D21B9838A00CE9F63 /* AnnuityViewController.swift in Sources */,
+				014CFA1621B9838A00CE9F63 /* CompoundViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -255,6 +443,46 @@
 				011740D821AC9BC200F3696A /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		014CF9EF21B83CEB00CE9F63 /* words.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				014CF9EE21B83CEB00CE9F63 /* Base */,
+			);
+			name = words.rtf;
+			sourceTree = "<group>";
+		};
+		014CF9F221B83CEF00CE9F63 /* star.png */ = {
+			isa = PBXVariantGroup;
+			children = (
+				014CF9F121B83CEF00CE9F63 /* Base */,
+			);
+			name = star.png;
+			sourceTree = "<group>";
+		};
+		014CF9F521B83CF400CE9F63 /* star2.png */ = {
+			isa = PBXVariantGroup;
+			children = (
+				014CF9F421B83CF400CE9F63 /* Base */,
+			);
+			name = star2.png;
+			sourceTree = "<group>";
+		};
+		014CF9F721B83CFF00CE9F63 /* DESIGN.md */ = {
+			isa = PBXVariantGroup;
+			children = (
+				014CF9F621B83CFF00CE9F63 /* Base */,
+			);
+			name = DESIGN.md;
+			sourceTree = "<group>";
+		};
+		014CF9F821B8557500CE9F63 /* definitions.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				014CF9F921B8557500CE9F63 /* Base */,
+			);
+			name = definitions.rtf;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -378,16 +606,18 @@
 		};
 		011740E921AC9BC200F3696A /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2923ADBFC7ABC2226D286690 /* Pods-FinancialLiteracy.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = L6WX3F9PA8;
+				DEVELOPMENT_TEAM = X3KF93MY2J;
 				INFOPLIST_FILE = FinancialLiteracy/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.erichansen.FinancialLiteracy;
+				PRODUCT_BUNDLE_IDENTIFIER = com.michaelChen.FinancialLiteracy;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -396,16 +626,18 @@
 		};
 		011740EA21AC9BC200F3696A /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = BFA5A2607693AC94475F6C70 /* Pods-FinancialLiteracy.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = L6WX3F9PA8;
+				DEVELOPMENT_TEAM = X3KF93MY2J;
 				INFOPLIST_FILE = FinancialLiteracy/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.erichansen.FinancialLiteracy;
+				PRODUCT_BUNDLE_IDENTIFIER = com.michaelChen.FinancialLiteracy;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -414,6 +646,7 @@
 		};
 		011740EC21AC9BC200F3696A /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 95C7DB2A962986E16554FDA3 /* Pods-FinancialLiteracyTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -435,6 +668,7 @@
 		};
 		011740ED21AC9BC200F3696A /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6E774B3000C31701E40820D3 /* Pods-FinancialLiteracyTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";

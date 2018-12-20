@@ -1,0 +1,6 @@
+framework module Pods_FinancialLiteracy {
+  umbrella header "Pods-FinancialLiteracy-umbrella.h"
+
+  export *
+  module * { export * }
+}
