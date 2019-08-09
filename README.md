@@ -1,5 +1,3 @@
-#  FFinancial Literacy App
-
 ## Introduction
 A simple Personal Finance iOS App, developed using Swift and Xcode.
 
@@ -11,9 +9,7 @@ To build the app on a real device, connect an iPhone 6/7/8 and follow the follow
 The app contains 5 components: A dictionary, daily report, financial calculator, budgeting tool, and curriculum.
 
 ### Today's Report
-Displays the top headline from Bloomberg Markets and daily change in the Dow Jones, NASDAQ, and the S&P 500 indices. 
-
-*Requires a secure HTTPS connection*
+Displays the top headline from Bloomberg Markets and daily change in the Dow Jones, NASDAQ, and the S&P 500 indices. *Requires a secure HTTPS connection*.
 
 ### Curriculum
 The curriculum includes 10 different sections - credit, debt, retirement, savings/budgeting, etc. Navigate between sections to read information repackaged from sites like [Investopedia](https://www.investopedia.com "Investopedia Homepage").
