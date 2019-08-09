@@ -26,8 +26,8 @@ Each calculation requires the user to fill in input fields. If you're unsure of 
 The budget walkthrough allows the user to calculate their total income (Salary, Interest payments, etc.), total flexible and fixed expenses, and then see a final net income report.
 
 ### TODO:
-Responsive Design
-Design Homepage Background
-TroubleShoot Today's Report Connection Bugs
-Overhaul "Learn on Your Own" Layout
+Responsive Design  
+Design Homepage Background  
+TroubleShoot Today's Report Connection Bugs  
+Overhaul "Learn on Your Own" Layout  
 Publish to App Store :).
